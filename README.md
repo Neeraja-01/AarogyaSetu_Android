@@ -105,7 +105,7 @@ Debug: ./app/src/debug/google-services.json
 
 Production: ./app/src/google-services.json
 
-Practice Purpose
+
 
 
 ### Build
